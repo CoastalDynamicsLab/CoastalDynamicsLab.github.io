@@ -68,9 +68,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # News Events
 Let's add these based on most recent event?
-- Arye's Knauss Fellowship
-- My NASA Fellowship
-- Dan's Postdoc 
+
 
 
 
