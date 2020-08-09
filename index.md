@@ -60,13 +60,7 @@ Shane's bio.
 </details>
 
 
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-# News Events
+### News Events
 Let's add these based on most recent event?
 
 
