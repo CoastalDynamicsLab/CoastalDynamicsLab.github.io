@@ -63,7 +63,7 @@ Shane's bio.
 ## News Events
 Let's add these based on most recent event?
 <details>
-<summary>Shane</summary>
+<summary>Arye</summary>
 <br>
 Arye (Knauss Fellow)
 </details>
