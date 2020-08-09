@@ -1,6 +1,9 @@
 # Welcome to the Coastal Dynamics Lab at Montclair State University
 
 ![Image](https://github.com/CoastalDynamicsLab/CoastalDynamicsLab.github.io/tree/master/Images/Test.jpg)
+
+
+
 (Add description of lab here)
 
 Do we want to link to MSU Coastal website to the [Montclair State Univeristy](https://www.montclair.edu/)?
