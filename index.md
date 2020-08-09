@@ -8,10 +8,59 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Testing Dropdown
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Jorge</summary>
 <br>
-This is how you dropdown.
+Jorge's bio.
 </details>
+
+<details>
+<summary>Arye</summary>
+<br>
+Arye's bio.
+</details>
+
+<details>
+<summary>Jesse</summary>
+<br>
+Jesse's bio.
+</details>
+
+<details>
+<summary>Madeline</summary>
+<br>
+Madeline's bio.
+</details>
+
+<details>
+<summary>Nora</summary>
+<br>
+Nora's bio.
+</details>
+
+<details>
+<summary>Chris</summary>
+<br>
+Chris's bio.
+</details>
+
+<details>
+<summary>Mike</summary>
+<br>
+Mike's bio.
+</details>
+
+<details>
+<summary>Isamar</summary>
+<br>
+Isamar's bio.
+</details>
+
+<details>
+<summary>Shane</summary>
+<br>
+Shane's bio.
+</details>
+
 
 ### Markdown
 
