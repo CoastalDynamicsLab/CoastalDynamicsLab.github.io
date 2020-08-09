@@ -1,6 +1,8 @@
 ## Welcome to the Coastal Dynamics Lab at Montclair State University
 
-You can use the [editor on GitHub](https://github.com/CoastalDynamicsLab/CoastalDynamicsLab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+(Add description of lab here)
+
+Do we want to link to MSU Coastal website to the [Montclair State Univeristy](https://www.montclair.edu/)?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
