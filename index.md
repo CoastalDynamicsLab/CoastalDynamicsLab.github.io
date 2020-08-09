@@ -15,8 +15,7 @@ Jorge's bio.
 <summary>Arye</summary>
 <br>
 Arye's bio.
-| [Click here](https://github.com/) |
-|---|
+|[Click here](https://github.com/)||---|
   
   
 </details>
