@@ -7,6 +7,7 @@
 (Add description of lab here)
 
 Do we want to link to MSU Coastal website to the [Montclair State Univeristy](https://www.montclair.edu/)?
+[Test](https://aryejanoff.wixsite.com/personalwebsite)
 
 ## Lab Group
 <details>
@@ -19,7 +20,7 @@ Jorge's bio.
 <summary>Arye</summary>
 <br>
 Arye's bio.  
-![Test](https://aryejanoff.wixsite.com/personalwebsite)
+
 </details>
 
 <details>
