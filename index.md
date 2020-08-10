@@ -1,6 +1,6 @@
 # Welcome to the Coastal Dynamics Lab at Montclair State University
 
-![Image of coast](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.egu.eu%2Fgeolog%2F2017%2F01%2F06%2Fgeosciences-column-do-coastlines-have-memories%2F&psig=AOvVaw1Sx7mTGRtf2UUdy4cprV9Z&ust=1597100010481000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODhnqqbj-sCFQAAAAAdAAAAABAJ)
+![Image of Coast](Images/Test.jpg)
 
 
 (Image subject to change)
