@@ -19,7 +19,7 @@ Jorge's bio.
 <summary>Arye</summary>
 <br>
 Arye's bio.  
-[Link to website](https://aryejanoff.wixsite.com/personalwebsite)
+![Test](https://aryejanoff.wixsite.com/personalwebsite)
 </details>
 
 <details>
