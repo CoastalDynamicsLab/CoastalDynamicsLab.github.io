@@ -31,9 +31,10 @@ Jorge's bio.
 <summary>Arye</summary>
 
 Arye's bio.  
-    +[Link to Personal Site](https://aryejanoff.wixsite.com/personalwebsite)
-    +Twitter Account [@geomorpharye](https://twitter.com/geomorpharye)
-    +[Research Gate](https://www.researchgate.net/profile/Arye_Janoff)
+* [Link to Personal Site](https://aryejanoff.wixsite.com/personalwebsite)
+* Twitter Account [@geomorpharye](https://twitter.com/geomorpharye)
+* [Research Gate](https://www.researchgate.net/profile/Arye_Janoff)
+
 </details>
 
 <details>
