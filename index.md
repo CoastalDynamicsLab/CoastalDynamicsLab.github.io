@@ -19,30 +19,13 @@ Jorge's bio.
 <summary>Arye</summary>
 <br>
 Arye's bio.  
+[Link to website](https://aryejanoff.wixsite.com/personalwebsite)
 </details>
 
 <details>
 <summary>Jesse</summary>
 <br>
 Jesse's bio.
-</details>
-
-<details>
-<summary>Madeline</summary>
-<br>
-Madeline's bio.
-</details>
-
-<details>
-<summary>Nora</summary>
-<br>
-Nora's bio.
-</details>
-
-<details>
-<summary>Chris</summary>
-<br>
-Chris's bio.
 </details>
 
 <details>
@@ -62,6 +45,27 @@ Isamar's bio.
 <br>
 Shane's bio.
 </details>
+
+<details>
+<summary>Chris</summary>
+<br>
+Chris' bio.
+</details>
+
+<details>
+<summary>Madeline</summary>
+<br>
+Madeline's bio.
+</details>
+
+<details>
+<summary>Nora</summary>
+<br>
+Nora's bio.
+</details>
+
+
+
 
 
 ## News Events
