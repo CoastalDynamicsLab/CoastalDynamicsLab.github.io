@@ -9,6 +9,14 @@
 Do we want to link to MSU Coastal website to the [Montclair State Univeristy](https://www.montclair.edu/)?
 [Test](https://aryejanoff.wixsite.com/personalwebsite)
 
+<details>
+<summary>Heading</summary>
+    + markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
+
 ## Lab Group
 <details>
 <summary>Jorge</summary>
