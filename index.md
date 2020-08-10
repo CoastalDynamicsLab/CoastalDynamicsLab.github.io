@@ -7,18 +7,16 @@
 (Add description of lab here)
 
 Do we want to link to MSU Coastal website to the [Montclair State Univeristy](https://www.montclair.edu/)?
-[Test](https://aryejanoff.wixsite.com/personalwebsite)
+
 
 <details>
 <summary>Heading</summary>
-<ul>
-<li> markdown list 1</li>
-<ul>
-<li> nested list 1</li>
-<li> nested list 2</li>
-</ul>
-<li> markdown list 2</li>
-</ul>
+
++ [Test](https://aryejanoff.wixsite.com/personalwebsite)
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
 </details>
 
 ## Lab Group
