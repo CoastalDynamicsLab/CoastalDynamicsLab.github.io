@@ -12,7 +12,7 @@ Do we want to link to MSU Coastal website to the [Montclair State Univeristy](ht
 <details>
 <summary>Heading</summary>
 
-+ [Test](https://aryejanoff.wixsite.com/personalwebsite)
++ 
     + nested list 1
     + nested list 2
 + markdown list 2
@@ -22,57 +22,67 @@ Do we want to link to MSU Coastal website to the [Montclair State Univeristy](ht
 ## Lab Group
 <details>
 <summary>Jorge</summary>
-<br>
+
 Jorge's bio.
+
 </details>
 
 <details>
 <summary>Arye</summary>
-<br>
-Arye's bio.  
 
+Arye's bio.  
+    +[Link to Personal Site](https://aryejanoff.wixsite.com/personalwebsite)
+    +Twitter Account [@geomorpharye](https://twitter.com/geomorpharye)
+    +[Research Gate](https://www.researchgate.net/profile/Arye_Janoff)
 </details>
 
 <details>
 <summary>Jesse</summary>
-<br>
+
 Jesse's bio.
+
 </details>
 
 <details>
 <summary>Mike</summary>
-<br>
+
 Mike's bio.
+
 </details>
 
 <details>
 <summary>Isamar</summary>
-<br>
+
 Isamar's bio.
+
 </details>
 
 <details>
 <summary>Shane</summary>
-<br>
+
 Shane's bio.
+
 </details>
 
 <details>
 <summary>Chris</summary>
-<br>
+
 Chris' bio.
+
 </details>
 
 <details>
 <summary>Madeline</summary>
-<br>
+
 Madeline's bio.
+
 </details>
 
 <details>
 <summary>Nora</summary>
-<br>
+
 Nora's bio.
+
 </details>
 
 
