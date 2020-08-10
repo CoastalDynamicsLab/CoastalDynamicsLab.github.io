@@ -9,15 +9,6 @@
 Do we want to link to MSU Coastal website to the [Montclair State Univeristy](https://www.montclair.edu/)?
 
 
-<details>
-<summary>Heading</summary>
-
-+ 
-    + nested list 1
-    + nested list 2
-+ markdown list 2
-
-</details>
 
 ## Lab Group
 <details>
@@ -99,6 +90,7 @@ Arye (Knauss Fellow)
 </details>
 
 
+## Alumni
 
 
 
