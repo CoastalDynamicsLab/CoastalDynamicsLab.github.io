@@ -11,10 +11,14 @@ Do we want to link to MSU Coastal website to the [Montclair State Univeristy](ht
 
 <details>
 <summary>Heading</summary>
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
+<ul>
+<li> markdown list 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
 </details>
 
 ## Lab Group
