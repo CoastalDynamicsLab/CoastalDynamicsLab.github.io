@@ -21,7 +21,7 @@ Jorge's bio.
 <details>
 <summary>Arye</summary>
 
-!(Images/IMG_0140.jpg)
+![Image](Images/IMG_0140.jpg)
 
 
 Arye is a Ph.D. candidate in Environmental Science and Management. He previously received a Bachelor of Science in Environmental Science with a concentration in Earth Science from Tulane University. His work explores how coastal communities choose management strategies such as beach nourishment, groin construction, and landward retreat in relation to their neighboring communities. He also investigates how each community values its beach for recreational purposes, the physical efficiency of its beach nourishment project, and how these geophysical and economic components control their consequent nourishment decisions. Toward these goals, he has developed a coupled geomorphic-economic modeling framework to account for both human and natural dynamics and constructed a community-scale field dataset including beach nourishment frequency/magnitude and socioeconomic data. This research adds to our understanding of anthropogenically-modified systems and will help inform coastal managers and policymakers faced with the challenges associated with climate change such as sea-level rise and increased material costs in the future.
