@@ -10,16 +10,16 @@ Do we want to link to MSU Coastal website to the [Montclair State Univeristy](ht
 
 
 
-
+## People
 <details>
-<summary>Jorge</summary>
+<summary>Jorge Lorenzo Trueba</summary>
 
 Jorge's bio.
 
 </details>
 
 <details>
-<summary>Arye</summary>
+<summary>Arye Janoff</summary>
 
 ![Image](Images/IMG_0140.jpg)
 
@@ -36,49 +36,49 @@ Arye is also an avid surfer, kayaker, bicyclist, runner, swimmer, and amateur ph
 </details>
 
 <details>
-<summary>Jesse</summary>
+<summary>Jesse Kolodin</summary>
 
 Jesse's bio.
 
 </details>
 
 <details>
-<summary>Mike</summary>
+<summary>Mike Ayers</summary>
 
 Mike's bio.
 
 </details>
 
 <details>
-<summary>Isamar</summary>
+<summary>Isamar Cortes</summary>
 
 Isamar's bio.
 
 </details>
 
 <details>
-<summary>Shane</summary>
+<summary>Shane Daiek</summary>
 
 Shane's bio.
 
 </details>
 
 <details>
-<summary>Chris</summary>
+<summary>Chris Tenebruso</summary>
 
 Chris' bio.
 
 </details>
 
 <details>
-<summary>Madeline</summary>
+<summary>Madeline Kollegger</summary>
 
 Madeline's bio.
 
 </details>
 
 <details>
-<summary>Nora</summary>
+<summary>Norjmaa Khosbaatar</summary>
 
 Nora's bio.
 
@@ -98,6 +98,17 @@ Arye (Knauss Fellow)
 
 
 ## Alumni
+<summary>Daniel Ciarletta</summary>
+
+Currently a Mendenhall Postdoctoral Fellow at St. Petersburg Coastal and Marine Science Center (USGS)
+
+</details>
+
+<summary>William Anderson</summary>
+
+Currently a Ph.D. student at North Carolina State University.
+
+</details>
 
 ## Research 
 
