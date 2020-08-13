@@ -79,7 +79,7 @@ Nora's bio.
 
 
 
-
+//turn into own tab
 ## News Events
 Let's add these based on most recent event?
 <details>
@@ -90,6 +90,10 @@ Arye (Knauss Fellow)
 
 
 ## Alumni
+
+##Research 
+
+##Contact Information
 
 
 
