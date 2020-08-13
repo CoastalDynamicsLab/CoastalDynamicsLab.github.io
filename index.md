@@ -10,7 +10,7 @@ Do we want to link to MSU Coastal website to the [Montclair State Univeristy](ht
 
 
 
-## Lab Group
+
 <details>
 <summary>Jorge</summary>
 
