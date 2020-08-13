@@ -93,17 +93,22 @@ Let's add these based on most recent event?
 <details>
 <summary>Arye</summary>
 <br>
-Arye (Knauss Fellow)
+Date: 07/21/2020
+
+Arye Janoff was selected for the prestigious NOAA Sea Grant 2021 John A. Knauss Marine Policy Fellowship in Washington D.C. starting next February! He will be placed in the legislative branch of the federal government, working for either a personal office or Congressional Committee in the U.S. House of Representatives or the U.S. Senate. While his host office will not be determined until January 2021, his service in Congress will be to ensure that science informs the bi-partisan legislative process on issues related to coastal and marine resources. The Knauss Fellowship provides an excellent opportunity to continue developing his skillset of science implementation across various levels of government. We are proud and excited to see where his career path may lead!
+
 </details>
 
 
 ## Alumni
+</details>
 <summary>Daniel Ciarletta</summary>
 
 Currently a Mendenhall Postdoctoral Fellow at St. Petersburg Coastal and Marine Science Center (USGS)
 
 </details>
 
+</details>
 <summary>William Anderson</summary>
 
 Currently a Ph.D. student at North Carolina State University.
