@@ -101,7 +101,7 @@ Arye Janoff was selected for the prestigious NOAA Sea Grant 2021 John A. Knauss 
 
 
 ## Alumni
-</details>
+<details>
 <summary>Daniel Ciarletta</summary>
 <br>
 
@@ -109,7 +109,7 @@ Currently a Mendenhall Postdoctoral Fellow at St. Petersburg Coastal and Marine 
 
 </details>
 
-</details>
+<details>
 <summary>William Anderson</summary>
 <br>
 
