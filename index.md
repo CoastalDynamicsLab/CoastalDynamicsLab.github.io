@@ -91,9 +91,9 @@ Arye (Knauss Fellow)
 
 ## Alumni
 
-##Research 
+## Research 
 
-##Contact Information
+## Contact Information
 
 
 
